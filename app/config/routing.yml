@@ -1,0 +1,8 @@
+emploiyer:
+    resource: "@EmploiyerBundle/Controller/"
+    type:     annotation
+    prefix:   /index
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
